@@ -1,6 +1,8 @@
 # PerformanceScoreCard
 
 Python script to automate the performance of scorecard. The script creates the charts for the following charts and profiles:
+
+
     ROC, AUC, KS, Score@KS
     
     Cumulative Gains Chart
